@@ -4,7 +4,7 @@
   "description": "High-speed Redis-backed JWT revocation and session blacklist middleware",
   "main": "index.js",
   "scripts": {
-    "test": "node --test test/**/*.test.js"
+    "test": "node --test"
   },
   "engines": {
     "node": ">=18.0.0"
