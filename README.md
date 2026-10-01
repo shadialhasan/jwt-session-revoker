@@ -1,5 +1,6 @@
 # 🔒 jwt-session-revoker
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/jwt-session-revoker/releases/tag/v1.0.0)
 [![CI Pipeline](https://github.com/MobileConduit/jwt-session-revoker/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/jwt-session-revoker/actions)
 [![Node: >=18](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-green.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
