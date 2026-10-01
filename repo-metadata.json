@@ -1,0 +1,12 @@
+{
+  "description": "Distributed Redis-backed JWT token revocation and immediate multi-device session logout engine",
+  "topics": [
+    "jwt",
+    "session-revocation",
+    "redis",
+    "token-blacklist",
+    "authentication",
+    "api-security",
+    "nodejs"
+  ]
+}
