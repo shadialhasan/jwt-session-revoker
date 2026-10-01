@@ -1,0 +1,29 @@
+{
+  "activeTokens": [
+    {
+      "jti": "d3b07384-d113-46fb-a0ff-5c7a364be16a",
+      "sub": "user_1001",
+      "device": "iPhone 15 Pro Max",
+      "ip": "198.51.100.12",
+      "iat": 1775030400,
+      "exp": 1775034000
+    },
+    {
+      "jti": "7f8b9a10-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+      "sub": "user_1001",
+      "device": "MacBook Pro M3",
+      "ip": "198.51.100.15",
+      "iat": 1775031000,
+      "exp": 1775034600
+    }
+  ],
+  "revokedTokens": [
+    {
+      "jti": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "sub": "user_9999",
+      "reason": "Compromised credential breach",
+      "revokedAt": 1775031200,
+      "ttl": 3600
+    }
+  ]
+}

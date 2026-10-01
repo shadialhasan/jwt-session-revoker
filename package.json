@@ -1,8 +1,23 @@
 {
   "name": "jwt-session-revoker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "High-speed Redis-backed JWT revocation and session blacklist middleware",
   "main": "index.js",
+  "scripts": {
+    "test": "node --test test/**/*.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "jwt",
+    "revocation",
+    "session",
+    "blacklist",
+    "redis",
+    "security",
+    "authentication"
+  ],
   "author": "Eng. MHD. Shadi AL-Hasan <mhd.shadi.alhasan@gmail.com>",
   "license": "MIT"
 }
